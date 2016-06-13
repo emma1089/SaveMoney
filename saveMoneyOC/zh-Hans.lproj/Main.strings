@@ -1,0 +1,114 @@
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "0Ny-YN-ryI"; */
+"0Ny-YN-ryI.text" = "0.00";
+
+/* Class = "UILabel"; text = "No Expense For This Month."; ObjectID = "1IT-ZL-v3s"; */
+"1IT-ZL-v3s.text" = "No Expense For This Month.";
+
+/* Class = "UILabel"; text = "Remain: $10000"; ObjectID = "5XV-EN-vyI"; */
+"5XV-EN-vyI.text" = "Remain: $10000";
+
+/* Class = "UILabel"; text = "May 2016"; ObjectID = "6fK-UE-eUt"; */
+"6fK-UE-eUt.text" = "May 2016";
+
+/* Class = "UILabel"; text = "Dining $25"; ObjectID = "6hs-SJ-LbM"; */
+"6hs-SJ-LbM.text" = "Dining $25";
+
+/* Class = "UITextField"; placeholder = "Add a description"; ObjectID = "6s6-03-sSx"; */
+"6s6-03-sSx.placeholder" = "Add a description";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "9Dj-pZ-c03"; */
+"9Dj-pZ-c03.text" = "Description";
+
+/* Class = "UITabBarItem"; title = "Expense"; ObjectID = "ED7-Tg-msp"; */
+"ED7-Tg-msp.title" = "Expense";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "FOl-oq-lP6"; */
+"FOl-oq-lP6.title" = "Title";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "GTK-Gp-pPd"; */
+"GTK-Gp-pPd.text" = "100%";
+
+/* Class = "UILabel"; text = "May 2016"; ObjectID = "IOu-qz-cJA"; */
+"IOu-qz-cJA.text" = "May 2016";
+
+/* Class = "UILabel"; text = "Today's max expense $70"; ObjectID = "If4-6G-a0J"; */
+"If4-6G-a0J.text" = "Today's max expense $70";
+
+/* Class = "UILabel"; text = "Shopping"; ObjectID = "J5H-dc-9z8"; */
+"J5H-dc-9z8.text" = "Shopping";
+
+/* Class = "UITabBarItem"; title = "Budget"; ObjectID = "K3M-by-oux"; */
+"K3M-by-oux.title" = "Budget";
+
+/* Class = "UILabel"; text = "Peek"; ObjectID = "Lg5-EE-Aqz"; */
+"Lg5-EE-Aqz.text" = "Peek";
+
+/* Class = "UILabel"; text = "Dining"; ObjectID = "Lzc-2x-VcZ"; */
+"Lzc-2x-VcZ.text" = "Dining";
+
+/* Class = "UILabel"; text = "Memo"; ObjectID = "PXW-HC-Ip3"; */
+"PXW-HC-Ip3.text" = "Memo";
+
+/* Class = "UILabel"; text = "Expense"; ObjectID = "Q9u-hw-nuX"; */
+"Q9u-hw-nuX.text" = "Expense";
+
+/* Class = "UITabBarItem"; title = "Overview"; ObjectID = "Quq-1L-smP"; */
+"Quq-1L-smP.title" = "Overview";
+
+/* Class = "UILabel"; text = "OverSpend"; ObjectID = "RUq-7M-npT"; */
+"RUq-7M-npT.text" = "OverSpend";
+
+/* Class = "UILabel"; text = "purpose"; ObjectID = "SU7-xH-02c"; */
+"SU7-xH-02c.text" = "purpose";
+
+/* Class = "UILabel"; text = "Budget"; ObjectID = "Sm7-ic-Q02"; */
+"Sm7-ic-Q02.text" = "Budget";
+
+/* Class = "UILabel"; text = "May 2016"; ObjectID = "TyH-YQ-QrS"; */
+"TyH-YQ-QrS.text" = "May 2016";
+
+/* Class = "UILabel"; text = "Money Tracker"; ObjectID = "WbS-cd-ztp"; */
+"WbS-cd-ztp.text" = "Money Tracker";
+
+/* Class = "UILabel"; text = "budget"; ObjectID = "Wkh-Y7-LcT"; */
+"Wkh-Y7-LcT.text" = "budget";
+
+/* Class = "UILabel"; text = "hello"; ObjectID = "XDf-JH-5ZF"; */
+"XDf-JH-5ZF.text" = "hello";
+
+/* Class = "UILabel"; text = "Expense"; ObjectID = "bmb-j1-Fdb"; */
+"bmb-j1-Fdb.text" = "Expense";
+
+/* Class = "UISegmentedControl"; e45-2k-h3g.segmentTitles[0] = "First"; ObjectID = "e45-2k-h3g"; */
+"e45-2k-h3g.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; e45-2k-h3g.segmentTitles[1] = "Second"; ObjectID = "e45-2k-h3g"; */
+"e45-2k-h3g.segmentTitles[1]" = "Second";
+
+/* Class = "UIButton"; normalTitle = "Feb 28, 2016"; ObjectID = "fW1-Qc-Eu3"; */
+"fW1-Qc-Eu3.normalTitle" = "Feb 28, 2016";
+
+/* Class = "UILabel"; text = "price"; ObjectID = "g8v-fa-w0k"; */
+"g8v-fa-w0k.text" = "price";
+
+/* Class = "UILabel"; text = "Delete"; ObjectID = "jfK-x2-vOR"; */
+"jfK-x2-vOR.text" = "Delete";
+
+/* Class = "UILabel"; text = "Edit"; ObjectID = "lb4-ij-E9k"; */
+"lb4-ij-E9k.text" = "Edit";
+
+/* Class = "UITabBarItem"; title = "Wish List"; ObjectID = "svs-DQ-Sjk"; */
+"svs-DQ-Sjk.title" = "Wish List";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "tMa-sH-5vx"; */
+"tMa-sH-5vx.normalTitle" = "Apply";
+
+/* Class = "UILabel"; text = "Cost: $2677.00"; ObjectID = "tzA-uD-qet"; */
+"tzA-uD-qet.text" = "Cost: $2677.00";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "xxa-Uw-C7f"; */
+"xxa-Uw-C7f.text" = "Buy";
+
+/* Class = "UILabel"; text = "Purpose"; ObjectID = "yeg-SL-SMP"; */
+"yeg-SL-SMP.text" = "Purpose";

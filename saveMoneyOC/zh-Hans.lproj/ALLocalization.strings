@@ -1,0 +1,81 @@
+/* 
+  ALLocalization.strings
+  saveMoneyOC
+
+  Created by 浦明晖 on 6/11/16.
+  Copyright © 2016 浦明晖. All rights reserved.
+*/
+Apply ="使用壁纸";
+About="设置";
+Background="背景";
+Language="语言";
+Feedback="反馈";
+ChooseAWallpaper="选择壁纸";
+ChooseFromPhoto="从相册选取";
+TakePhoto="使用相机";
+Currency="货币";
+Dollar="美元";
+RMB="人民币";
+
+//First View Controller
+
+ThisMonth="当月";
+TodayMaxExpense="今日开销上限 ";
+Cost="支出: ";
+Remain="剩余: ";
+Budget="预算: ";
+Over="超支: ";
+NoExpense="这个月暂无开销";
+//Tab bar
+OverView="总计";
+Expense="开销";
+WishingList="许愿单";
+budget="预算";
+//Account Book
+Today="今天";
+Overspend="超支 ";
+Edit="修改";
+Delete="删除";
+//Base View Controller
+Memo="备忘";
+Cancel="取消";
+OK="确定";
+UseCamera="使用相机";
+UsePhotoLibrary="使用相册";
+//New Cost View Controller
+AddNewExpense="记一笔";
+AddMemo="添加备忘录";
+MemoPlaceHolder="在此记录你的生活...";
+EditExpense="修改支出";
+//Wish list
+Buy="已买";
+Peek="查看";
+//New Wish Item
+AddNewWishItem="添加欲购单品";
+Description="描述";
+EditDescription="添加描述";
+AddDescriptionHere="在这里添加描述";
+EditWishItem="编辑预购物品";
+DescriptionPlaceHolder="在这里描述你欲购物品...";
+ChooseWallpaper="选择壁纸";
+CropImage="修剪";
+
+Amazon="亚马逊";
+Dining="餐饮";
+Medical="医疗";
+Phone="通信";
+Travel="旅游";
+Book="书籍";
+Shopping="购物";
+Coffee="咖啡";
+Drink="酒水";
+Laundry="洗衣";
+Gas="汽油";
+Beauty="美容";
+Traffic="交通";
+Social="社交";
+
+Add="添加类别";
+AddNewCategory="添加新类别";
+InputCategoryNameHere = "在这里输入类别名字";
+Other="其它";

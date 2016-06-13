@@ -1,0 +1,60 @@
+/* 
+  ALLocalization.strings
+  saveMoneyOC
+
+  Created by 浦明晖 on 6/11/16.
+  Copyright © 2016 浦明晖. All rights reserved.
+*/
+
+Apply ="Apply";
+About="About";
+ChooseAWallpaper="Choose a Wallpaper";
+ChooseFromPhoto="Choose From Photoes";
+TakePhoto="Take Photo";
+
+//First View Controller
+ThisMonth="This Month";
+TodayMaxExpense="Today's max expense ";
+Cost="Cost: ";
+Remain="Remain: ";
+Budget="Budget: ";
+Over="Over: ";
+NoExpense="No Expense For This Month";
+
+//Tab Bar
+OverView="Overview";
+Expense="Expense";
+WishingList="Wishing List";
+budget="Budget";
+//Account Book
+Today="Today";
+Overspend="OverSpend ";
+Edit="Edit";
+Delete="Delete";
+
+//Base View Controller
+Memo="Memo";
+Cancel="Cancel";
+OK="OK";
+AddMemo="Add Memo";
+UseCamera="Use Camera";
+UsePhotoLibrary="Use Photo Library";
+//New Cost View Controller
+AddNewExpense="Add New Expense";
+MemoPlaceHolder="Memo your life here...";
+EditExpense="Edit Expense";
+
+//New Wish Item
+AddNewWishItem="Add New Wish Item";
+Description="Description";
+AddDescriptionHere="Add a Description.";
+EditWishItem="Edit Wish Item";
+EditDescription="Edit Description";
+DescriptionPlaceHolder="Describe your item here...";
+
+//Wall Paper VC
+ChooseWallpaper="Choose Wallpaper";
+CropImage="Crop Image";
+
+AddNewCategory="Add New Category";
+InputCategoryNameHere = "Input Category Name Here";
